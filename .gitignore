@@ -1,0 +1,33 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+*.shared
+*.keystore
+*.jks
+captures/
+
+# iOS
+.generated/
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+Flutter/Generated.xcconfig
+Pods/
+ServiceDefinitions.json
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata/
+
+# SDK Zip
+flutter_sdk.zip
